@@ -1,2 +1,2 @@
-# Spring-Cloud-Config
+# springcloud-config
 This is test Spring Cloud Config
